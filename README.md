@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MutumaIan a BI analyst and Data scientist from Nairobi.
+- 👋 Hi, I’m @Mutuma a Data scientist from Nairobi.
 
 <!---
 MutumaIan/MutumaIan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
